@@ -8,7 +8,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p width="30px"><samp>I am a Jr. Full-Stack Developer based in Southern California. I am passionate about learning, problem solving and squashing bugs 🐛 </samp><p>
-<p width="30px"><samp>I am currently working as a Junior Software Engineer, building customizable software with JavaScript/ReactJS, and Python. </samp><p>
+<p width="30px"><samp>I am currently working as a Jr. Product Engineer, building customizable software with JavaScript/ReactJS, and Python. </samp><p>
 <a href="https://www.linkedin.com/in/chelsea-scriven-3557391b7/"><img src="https://img.shields.io/badge/Let's Connect--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a align="left" href="mailto:scrivenchelsea@gmail.com"><img src="https://img.shields.io/badge/Let's Chat--_.svg?style=social&logo=Gmail&color=9cf"></a></p>
  <hr></hr>
