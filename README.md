@@ -15,5 +15,5 @@
   
   
 <a href="https://github.com/chelseascriven/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=chelseascriven&show_icons=true&show_icons=true&theme=buefy&count_private=true&custom_title=My%20Github%20Highlights" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chelseascriven&show_icons=true&show_icons=true&theme=buefy&count_private=true&custom_title=My%20Github%20Highlights&include_all_commits=true&repo=stacker-frontend" />
 </a>
